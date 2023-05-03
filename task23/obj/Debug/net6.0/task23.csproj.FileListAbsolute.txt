@@ -1,0 +1,15 @@
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\bin\Debug\net6.0\task23.exe
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\bin\Debug\net6.0\task23.deps.json
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\bin\Debug\net6.0\task23.dll
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\bin\Debug\net6.0\task23.pdb
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\task23.dll
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\refint\task23.dll
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\task23.pdb
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+D:\GEEKBRAINS\3 ЗНАКОМСТВО С ЯЗЫКАМИ ПРОГРАММИРОВАНИЯ\C#-Homework3\task23\obj\Debug\net6.0\ref\task23.dll
